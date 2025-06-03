@@ -18,9 +18,9 @@ To understand what makes a password strong by creating multiple passwords, testi
 | Password                       | Estimated Time to Crack  |   Feedback / Notes                               |
 |--------------------------------|--------------------------|--------------------------------------------------|
 | cyber321                       | 5.84 seconds             | Too short, lacks symbols and uppercase           |
-| H3ll0@2025                     | 12.76 minutes            | Better, contains mixed characters                |
+| cyber60x                       | 12.76 minutes            | Better, contains mixed characters                |
 | cyber9685@@.!                  | 8 months                 | Strong – long and complex                        |
-|cyber9685.!s!!$                 | 4 years                  | Strong – good symbol/number/letter mix           |
+| cyber9685.!s!!$                | 4 years                  | Strong – good symbol/number/letter mix           |
 | Cy@#yBeR@@@#                   | 3,000 years              | Excellent – very long and very complex           |
 
 ---
@@ -28,7 +28,7 @@ To understand what makes a password strong by creating multiple passwords, testi
 ## ✅ Analysis and Key Learnings
 
 ### 🔎 Observations:
-- Simple passwords like hello123 can be cracked in seconds.
+- Simple passwords like cyber321 can be cracked in seconds.
 - Adding uppercase letters, numbers, and symbols improves strength significantly.
 - Longer passwords (16+ characters) provide much greater security and resistance to brute-force attacks.
 
